@@ -1,4 +1,4 @@
-# JBL
+# Cactus
 
 <p align="center">
   <img src="./assets/images/project-preview-light.png" alt="Project Preview Dark" width="800"/>
