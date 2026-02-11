@@ -1,9 +1,15 @@
 # JBL
 
-<p align="center">
-  <img src="./assets/images/project-preview-light.png" alt="Project Preview Dark" width="800"/>
-  <img src="./assets/images/project-preview-dark.png" alt="Project Preview Dark" width="800"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="/assets/images/project-preview-light.png" alt="Project Preview 1" width="400"/>
+    </td>
+    <td align="center">
+      <img src="/assets/images/project-preview-dark.png" alt="Project Preview 2" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ## Overview
 
@@ -21,6 +27,14 @@ Designed with a focus on smooth interactions, visual clarity, and responsive lay
 ## Getting Started
 
 Simply open the project in your browser:
+
+# Visit Link:
+
+<a href="https://cactus2003.netlify.app/">
+[`https://cactus2003.netlify.app/`]
+</a>
+
+---
 
 ```bash
 # using live server (recommended)
