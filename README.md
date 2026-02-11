@@ -24,15 +24,15 @@ Designed with a focus on smooth interactions, visual clarity, and responsive lay
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-## Getting Started
-
-Simply open the project in your browser:
-
 # Visit Link:
 
 <a href="https://cactus2003.netlify.app/">
 [`https://cactus2003.netlify.app/`]
 </a>
+
+## Getting Started
+
+Simply open the project in your browser:
 
 ---
 
